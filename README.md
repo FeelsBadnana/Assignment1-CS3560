@@ -8,7 +8,7 @@ Description: [Link](assignment-1.pdf)
 * Ryan Chiu
 * ~~Steven Chan~~
 * ~~Isabel DeLaPaz~~
-* Nathan Goodrich
+* ~~Nathan Goodrich~~
 * ~~Ryan Mercado~~
 * ~~Jonathan Lu~~
 * Luke Monte
