@@ -6,7 +6,7 @@ Description: [Link](assignment-1.pdf)
 ## Students:
 * ~~Kayte Chien~~
 * Ryan Chiu
-* Steven Chan
+* ~~Steven Chan~~
 * ~~Isabel DeLaPaz~~
 * Nathan Goodrich
 * ~~Ryan Mercado~~
