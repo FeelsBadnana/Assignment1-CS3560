@@ -10,7 +10,7 @@ Description: [Link](assignment-1.pdf)
 * ~~Isabel DeLaPaz~~
 * Nathan Goodrich
 * ~~Ryan Mercado~~
-* Jonathan Lu
+* ~~Jonathan Lu~~
 * Luke Monte
 
 Names crossed out means their pull requests were accepted and merged.
