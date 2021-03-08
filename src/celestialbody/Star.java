@@ -1,5 +1,6 @@
 package src.celestialbody;
 
+//Stars usually exist in the center of planetary systems, and are what the Celestial Bodies of that system orbit. Occasionally, Star's can exist with other stars in either Star Systems or Star colors. A star can also transform into a black hole towards the end of it's life cycle.
 public class Star {
     //starType determines the stage of life that the star is in
     private String starType;
