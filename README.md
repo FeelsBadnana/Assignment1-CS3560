@@ -7,9 +7,9 @@ Description: [Link](assignment-1.pdf)
 * ~~Kayte Chien~~
 * ~~Ryan Chiu~~
 * ~~Steven Chan~~
-* ~~Isabel DeLaPaz~~ (partial)
+* ~~Isabel DeLaPaz~~ 
 * ~~Nathan Goodrich~~
-* ~~Ryan Mercado~~ (partial)
+* ~~Ryan Mercado~~ 
 * ~~Jonathan Lu~~
 * ~~Luke Monte~~
 
