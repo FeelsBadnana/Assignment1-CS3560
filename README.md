@@ -7,10 +7,10 @@ Description: [Link](assignment-1.pdf)
 * ~~Kayte Chien~~
 * ~~Ryan Chiu~~
 * ~~Steven Chan~~
-* ~~Isabel DeLaPaz~~
+* ~~Isabel DeLaPaz~~ (partial)
 * ~~Nathan Goodrich~~
 * ~~Ryan Mercado~~ (partial)
 * ~~Jonathan Lu~~
-* Luke Monte
+* ~~Luke Monte~~
 
 Names crossed out means their pull requests were accepted and merged.
