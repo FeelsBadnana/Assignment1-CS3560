@@ -4,7 +4,7 @@
 Description: [Link](assignment-1.pdf)
 
 ## Students:
-* Kayte Chien
+* ~~Kayte Chien~~
 * Ryan Chiu
 * Steven Chan
 * ~~Isabel DeLaPaz~~
