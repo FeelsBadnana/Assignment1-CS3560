@@ -5,11 +5,11 @@ Description: [Link](assignment-1.pdf)
 
 ## Students:
 * ~~Kayte Chien~~
-* Ryan Chiu
+* ~~Ryan Chiu~~
 * ~~Steven Chan~~
 * ~~Isabel DeLaPaz~~
 * ~~Nathan Goodrich~~
-* ~~Ryan Mercado~~
+* ~~Ryan Mercado~~ (partial)
 * ~~Jonathan Lu~~
 * Luke Monte
 
