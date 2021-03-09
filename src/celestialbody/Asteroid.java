@@ -29,6 +29,6 @@ public void setOrbitalPeriod(float orbitalPeriod) {
     this.orbitalPeriod = orbitalPeriod;
 }
 
-pulic void setOrbitalSpeed(float orbitalSpeed) {
+public void setOrbitalSpeed(float orbitalSpeed) {
     this.orbitalSpeed = orbitalSpeed;
 }

@@ -2,8 +2,9 @@ package src.celestialobject;
 
 //Sets up the qualities of a star cluster
 public class StarCluster {
-	private int starCount; //the amount of stars
-	private String clusterType; //the type of star cluster
+		private int starCount; //the amount of stars
+		private String clusterType; //the type of star cluster
+		
 		//changes the value of starCount with stars
 		public void setStarCount(int stars){
 			starCount = stars;

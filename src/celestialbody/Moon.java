@@ -2,8 +2,8 @@ package src.celestialbody;
 
 //Sets up the qualities of a moon
 public class Moon {
-	private float orbitalSpeed; //the orbital speed of the moon
-	private float orbitalPeriod; // the orbital period of the moon
+		private float orbitalSpeed; //the orbital speed of the moon
+		private float orbitalPeriod; // the orbital period of the moon
 		
 		//changes speed of orbitalSpeed
 		public void setOrbitalSpeed(float OSpeed){

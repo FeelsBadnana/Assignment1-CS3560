@@ -6,28 +6,28 @@ public class Universe {
     private float mass;
     private float expandingRate;
 
-public float getAge(){
-    return age;
-}
+    public float getAge(){
+        return age;
+    }
 
-public void setAge(float age){
-    this.age = age;
-}
+    public void setAge(float age){
+        this.age = age;
+    }
 
-public float getMass(){
-    return mass;
-}
+    public float getMass(){
+        return mass;
+    }
 
-public void setMass(float mass){
-    this.mass = mass;
-}
+    public void setMass(float mass){
+        this.mass = mass;
+    }
 
-public float getExpandingRate(){
-    return expandingRate;
-}
+    public float getExpandingRate(){
+        return expandingRate;
+    }
 
-public void setExpandingRate(float expandingRate){
-    this.expandingRate = expandingRate;
-}
+    public void setExpandingRate(float expandingRate){
+        this.expandingRate = expandingRate;
+    }
     
 }

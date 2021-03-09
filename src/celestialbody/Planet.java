@@ -1,15 +1,18 @@
 package src.celestialbody;
 
 public class Planet {
-    private int rings;
-    private float orbitalSpeed;
-    private float orbitalPeriod;
-    private float rotationPeriod;
-        public void setRings(float ringamt){
-        rings=ringamt;
+    
+        private int rings;
+        private float orbitalSpeed;
+        private float orbitalPeriod;
+        private float rotationPeriod;
+
+
+        public void setRings(int ringamt){
+            rings=ringamt;
         }
         public void setSpeed(float speed){
-        oribtalSpeed=speed;
+            orbitalSpeed=speed;
         }
         public void setOPeriod(float Operiod){
         orbitalPeriod=Operiod;
@@ -21,7 +24,7 @@ public class Planet {
         return rings;
         }
         public float getSpeed(){
-        return oribtalSpeed;
+        return orbitalSpeed;
         }
         public float getOPeriod(){
         return orbitalPeriod;
